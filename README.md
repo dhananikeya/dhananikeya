@@ -2,6 +2,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B1F3A&height=220&section=header&text=Keya%20Dhanani&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Business%20Analyst%20%7C%20AI%20Automation%20%7C%20Data%20Analytics%20%7C%20FinTech&descSize=18&descAlignY=55&descColor=FFFFFF"/>
 
+<img src="https://avatars.githubusercontent.com/u/331864312?v=4" width="160" alt="Keya Dhanani headshot">
+
 ### Building at the intersection of business, finance, data & AI.
 
 I create data-driven and AI-powered solutions that turn business problems into automated workflows, analytics, and better decisions.
@@ -20,7 +22,7 @@ I create data-driven and AI-powered solutions that turn business problems into a
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I'm an Information Systems graduate with experience in **business analysis, data analytics, financial services, AI automation, and technology**.
 
@@ -28,17 +30,17 @@ I enjoy building solutions that combine **business strategy, data, finance, and 
 
 ---
 
-## 🚀 What I'm Working On
+## Current Focus
 
-- 🤖 AI-powered workflow automation
-- 📊 Business intelligence and data analytics
-- 📈 Algorithmic trading and financial technology
-- 🧠 LLM and machine learning projects
-- ⚙️ Process automation and business systems
+- AI-powered workflow automation
+- Business intelligence and data analytics
+- Algorithmic trading and financial technology
+- LLM and machine learning projects
+- Process automation and business systems
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Data & Analytics
 
@@ -71,21 +73,21 @@ I enjoy building solutions that combine **business strategy, data, finance, and 
 
 ---
 
-## 💼 Experience
+## Experience
 
-### 💳 Navy Federal Credit Union
+### Navy Federal Credit Union
 
 Experience supporting business analysis, Agile delivery, stakeholder collaboration, and process improvement.
 
-### 🤖 KAAS Solutions
+### KAAS Solutions
 
 Business analysis, data analytics, reporting, AI automation, and workflow optimization.
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🤖 AI Ticket Automation System
+### AI Ticket Automation System
 
 An end-to-end AI workflow for cleaning, classifying, prioritizing, routing, storing, monitoring, and querying IT service tickets.
 
@@ -97,7 +99,7 @@ An end-to-end AI workflow for cleaning, classifying, prioritizing, routing, stor
 
 ---
 
-### 📈 Algorithmic Trading System
+### Algorithmic Trading System
 
 Automated trading and market-analysis systems combining technical indicators, strategy logic, automation, and AI experimentation.
 
@@ -105,13 +107,13 @@ Automated trading and market-analysis systems combining technical indicators, st
 
 ---
 
-### 🧠 AI & Machine Learning Projects
+### AI & Machine Learning Projects
 
 Experiments and applications involving LLMs, automation, machine learning, business intelligence, and data-driven decision making.
 
 ---
 
-## 📫 Let's Connect
+## Connect
 
 <div align="center">
 
