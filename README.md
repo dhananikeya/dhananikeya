@@ -87,9 +87,13 @@ Business analysis, data analytics, reporting, AI automation, and workflow optimi
 
 ### 🤖 AI Ticket Automation System
 
-An intelligent workflow designed to automate ticket classification, prioritization, routing, assignment, and reporting using AI and automation.
+An end-to-end AI workflow for cleaning, classifying, prioritizing, routing, storing, monitoring, and querying IT service tickets.
 
-**Technologies:** `n8n` `LLMs` `APIs` `Google Sheets` `Google Drive` `Workflow Automation`
+**Technologies:** `n8n` `LLMs` `JavaScript` `Google Sheets` `Google Drive` `Workflow Automation`
+
+<a href="https://github.com/dhananikeya/ai-ticket-automation">
+<img src="https://img.shields.io/badge/View%20Project-0B1F3A?style=for-the-badge&logo=github&logoColor=white" alt="View AI Ticket Automation Project">
+</a>
 
 ---
 
