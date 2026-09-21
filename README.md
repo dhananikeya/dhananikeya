@@ -76,12 +76,22 @@ I enjoy building solutions that combine **business strategy, data, finance, and 
 ## Experience
 
 ### Navy Federal Credit Union
+**Program Management Intern, MarTech | Vienna, VA | May 2025 – Aug 2025**
 
-Experience supporting business analysis, Agile delivery, stakeholder collaboration, and process improvement.
+- Conducted workflow analysis across **Marketing, Technology, and Operations**, identifying process bottlenecks, control gaps, and opportunities for operational improvement.
+- Gathered stakeholder requirements and translated business needs into **SOPs, process documentation, workflow diagrams, and implementation recommendations**.
+- Supported the redesign of a **ServiceNow intake process** and helped develop a centralized **SharePoint resource hub** to improve process consistency and access to documentation.
+- Developed dashboards and reporting used to track **120+ operational and performance metrics**, supporting KPI monitoring and data-driven decision-making.
+- Managed and refined approximately **five user stories per sprint in Azure DevOps**, documenting requirements, priorities, dependencies, status, and testable acceptance criteria while supporting sprint planning and backlog refinement.
 
 ### KAAS Solutions
+**Business Analyst Intern | Chantilly, VA | Sep 2025 – Present**
 
-Business analysis, data analytics, reporting, AI automation, and workflow optimization.
+- Analyze **business, operational, and financial data** using SQL, Excel, Tableau, and Power BI to identify trends, monitor performance, and support decision-making.
+- Develop dashboards, automated reporting solutions, and analytical tools used by **60+ stakeholders** to track KPIs, financial performance, and operational metrics.
+- Support **financial analysis, budgeting, forecasting, expense tracking, and performance reporting** to help evaluate business performance and resource allocation.
+- Partner with stakeholders to gather requirements, validate data, document business needs, and translate findings into **process improvements and actionable recommendations**.
+- Design and test **AI-powered automation and workflow solutions** using LLMs, data processing, and business rules to streamline repetitive processes and improve efficiency.
 
 ---
 
