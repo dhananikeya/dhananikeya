@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B1F3A&height=220&section=header&text=Keya%20Dhanani&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Business%20Analyst%20%7C%20AI%20Automation%20%7C%20Data%20Analytics%20%7C%20FinTech&descSize=18&descAlignY=55&descColor=FFFFFF"/>
 
-<img src="https://avatars.githubusercontent.com/u/331864312?v=4" width="160" alt="Keya Dhanani headshot">
+<img src="assets/keya-dhanani-headshot.jpg" width="180" alt="Keya Dhanani headshot">
 
 ### Building at the intersection of business, finance, data & AI.
 
