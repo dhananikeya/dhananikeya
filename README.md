@@ -30,6 +30,23 @@ I enjoy building solutions that combine **business strategy, data, finance, and 
 
 ---
 
+## Resume
+
+<div align="center">
+
+<a href="https://github.com/dhananikeya/dhananikeya/blob/main/assets/Keya_Dhanani_Resume.pdf">
+<img src="https://img.shields.io/badge/View%20Resume-0B1F3A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume">
+</a>
+
+<a href="https://raw.githubusercontent.com/dhananikeya/dhananikeya/main/assets/Keya_Dhanani_Resume.pdf">
+<img src="https://img.shields.io/badge/Download%20PDF-0B1F3A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume PDF">
+</a>
+
+</div>
+
+
+---
+
 ## Current Focus
 
 - AI-powered workflow automation
